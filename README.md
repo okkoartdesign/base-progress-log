@@ -75,3 +75,4 @@ Day 72 - NFT utility expansion
 Day 73 - Creator economy onchain
 Day 74 - Token incentives design
 Day 75 - Reputation systems
+Day 76 - Onchain credential models
