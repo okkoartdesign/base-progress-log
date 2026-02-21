@@ -79,3 +79,4 @@ Day 76 - Onchain credential models
 Day 77 - Blockchain for gaming
 Day 78 - Real world asset tokenization
 Day 79 - Institutional adoption trends
+Day 80 - Developer roadmap planning
