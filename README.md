@@ -138,3 +138,4 @@ Day 135 - Layer 2 security model
 Day 136 - Fraud proof basics
 Day 137 - Validity proof comparison
 Day 138 - Modular blockchain thesis
+Day 139 - Data availability discussion
