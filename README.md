@@ -114,3 +114,4 @@ Day 111 - Frontend wallet connection flow
 Day 112 - Handling transaction errors
 Day 113 - Event listening in dApps
 Day 114 - Indexing blockchain events
+Day 115 - Subgraph introduction notes
