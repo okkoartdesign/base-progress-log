@@ -86,3 +86,4 @@ Day 83 - Version control discipline
 Day 84 - Clean commit structure
 Day 85 - README improvement practices
 Day 86 - Markdown formatting basics
+Day 87 - Structuring project folders
