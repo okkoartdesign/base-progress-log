@@ -119,3 +119,4 @@ Day 116 - Data querying optimization
 Day 117 - Smart contract upgrade patterns
 Day 118 - Proxy contract basics
 Day 119 - Upgradeable contract risks
+Day 120 - Storage layout considerations
