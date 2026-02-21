@@ -57,3 +57,4 @@ Day 54 - Governance token utility
 Day 55 - Onchain analytics tools
 Day 56 - Blockchain data indexing
 Day 57 - Smart contract audits
+Day 58 - Bug bounty awareness
