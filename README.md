@@ -30,3 +30,8 @@ Day 27 - Open source contribution mindset
 Day 28 - Web3 frontend integration
 Day 29 - JSON RPC fundamentals
 Day 30 - Wallet security practices
+Day 31 - Private key safety awareness
+Day 32 - Seed phrase storage strategies
+Day 33 - Multi-sig wallet concept
+Day 34 - DAO governance basics
+Day 35 - Token standards overview
