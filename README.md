@@ -20,3 +20,8 @@ Day 17 - Block explorers usage
 Day 18 - Transaction lifecycle
 Day 19 - Signature verification basics
 Day 20 - Testnet experimentation
+Day 21 - Deploying a simple contract concept
+Day 22 - Gas estimation logic
+Day 23 - Smart contract storage basics
+Day 24 - EVM compatibility notes
+Day 25 - Developer tooling overview
