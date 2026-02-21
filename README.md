@@ -139,3 +139,4 @@ Day 136 - Fraud proof basics
 Day 137 - Validity proof comparison
 Day 138 - Modular blockchain thesis
 Day 139 - Data availability discussion
+Day 140 - Celestia style architecture notes
