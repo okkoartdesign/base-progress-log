@@ -25,3 +25,8 @@ Day 22 - Gas estimation logic
 Day 23 - Smart contract storage basics
 Day 24 - EVM compatibility notes
 Day 25 - Developer tooling overview
+Day 26 - Using GitHub for version control
+Day 27 - Open source contribution mindset
+Day 28 - Web3 frontend integration
+Day 29 - JSON RPC fundamentals
+Day 30 - Wallet security practices
