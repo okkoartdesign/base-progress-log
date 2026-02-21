@@ -16,3 +16,7 @@ Day 13 - Security assumptions in Layer 2
 Day 14 - Decentralization tradeoffs
 Day 15 - Node infrastructure basics
 Day 16 - RPC endpoints understanding
+Day 17 - Block explorers usage
+Day 18 - Transaction lifecycle
+Day 19 - Signature verification basics
+Day 20 - Testnet experimentation
