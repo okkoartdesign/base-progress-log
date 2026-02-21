@@ -134,3 +134,4 @@ Day 131 - MEV concept exploration
 Day 132 - Front running prevention ideas
 Day 133 - Transaction ordering logic
 Day 134 - Decentralized sequencing
+Day 135 - Layer 2 security model
