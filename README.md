@@ -117,3 +117,4 @@ Day 114 - Indexing blockchain events
 Day 115 - Subgraph introduction notes
 Day 116 - Data querying optimization
 Day 117 - Smart contract upgrade patterns
+Day 118 - Proxy contract basics
