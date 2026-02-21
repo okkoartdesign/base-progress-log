@@ -116,3 +116,4 @@ Day 113 - Event listening in dApps
 Day 114 - Indexing blockchain events
 Day 115 - Subgraph introduction notes
 Day 116 - Data querying optimization
+Day 117 - Smart contract upgrade patterns
