@@ -63,3 +63,4 @@ Day 60 - Risk management in crypto
 Day 61 - Web3 UX challenges
 Day 62 - Account abstraction overview
 Day 63 - Gasless transactions concept
+Day 64 - Social recovery wallets
