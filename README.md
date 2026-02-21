@@ -112,3 +112,4 @@ Day 109 - Environment variables management
 Day 110 - API integration concepts
 Day 111 - Frontend wallet connection flow
 Day 112 - Handling transaction errors
+Day 113 - Event listening in dApps
