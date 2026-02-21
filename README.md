@@ -65,3 +65,4 @@ Day 62 - Account abstraction overview
 Day 63 - Gasless transactions concept
 Day 64 - Social recovery wallets
 Day 65 - Identity verification models
+Day 66 - Privacy on blockchain
