@@ -121,3 +121,4 @@ Day 118 - Proxy contract basics
 Day 119 - Upgradeable contract risks
 Day 120 - Storage layout considerations
 Day 121 - Gas optimization patterns
+Day 122 - Solidity best practices
