@@ -69,3 +69,4 @@ Day 66 - Privacy on blockchain
 Day 67 - Zero knowledge proofs intro
 Day 68 - Scaling solutions comparison
 Day 69 - Base ecosystem projects research
+Day 70 - Community governance participation
