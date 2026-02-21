@@ -96,3 +96,4 @@ Day 93 - Learning from failed experiments
 Day 94 - Improving code clarity
 Day 95 - Reviewing blockchain trends
 Day 96 - Long term Web3 vision
+Day 97 - Decentralized future outlook
