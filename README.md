@@ -40,3 +40,8 @@ Day 37 - ERC-721 NFT basics
 Day 38 - ERC-1155 hybrid tokens
 Day 39 - Tokenomics reflections
 Day 40 - Onchain transparency
+Day 41 - DeFi protocols research
+Day 42 - Liquidity pool mechanics
+Day 43 - Automated market makers
+Day 44 - Slippage explanation
+Day 45 - Impermanent loss basics
