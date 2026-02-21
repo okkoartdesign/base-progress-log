@@ -45,3 +45,8 @@ Day 42 - Liquidity pool mechanics
 Day 43 - Automated market makers
 Day 44 - Slippage explanation
 Day 45 - Impermanent loss basics
+Day 46 - Yield farming concepts
+Day 47 - Staking fundamentals
+Day 48 - Restaking idea exploration
+Day 49 - Cross-chain bridges
+Day 50 - Interoperability challenges
