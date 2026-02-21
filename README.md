@@ -60,3 +60,4 @@ Day 57 - Smart contract audits
 Day 58 - Bug bounty awareness
 Day 59 - Security best practices
 Day 60 - Risk management in crypto
+Day 61 - Web3 UX challenges
