@@ -129,3 +129,4 @@ Day 126 - Time locked contracts
 Day 127 - Emergency pause mechanisms
 Day 128 - Oracle integration overview
 Day 129 - Offchain data feeds
+Day 130 - Randomness in smart contracts
