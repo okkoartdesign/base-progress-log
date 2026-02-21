@@ -110,7 +110,7 @@ Day 107 - Remix IDE experimentation
 Day 108 - Contract deployment scripts
 Day 109 - Environment variables management
 Day 110 - API integration concepts
-Day 111 - Frontend wallet connection flow
+Day 111 - 8 24 32 44 48 80 - 11
 Day 112 - Handling transaction errors
 Day 113 - Event listening in dApps
 Day 114 - Indexing blockchain events
@@ -140,3 +140,5 @@ Day 137 - Validity proof comparison
 Day 138 - Modular blockchain thesis
 Day 139 - Data availability discussion
 Day 140 - Celestia style architecture notes
+Day 141 - Cross chain messaging systems
+Day 142 - Frontend wallet connection flow
