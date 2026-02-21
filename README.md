@@ -104,3 +104,4 @@ Day 101 - Preparing for advanced builds
 Day 102 - Smart contract testing strategies
 Day 103 - Unit testing in Web3 projects
 Day 104 - Integration testing basics
+Day 105 - Hardhat environment setup
