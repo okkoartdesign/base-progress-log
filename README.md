@@ -76,3 +76,4 @@ Day 73 - Creator economy onchain
 Day 74 - Token incentives design
 Day 75 - Reputation systems
 Day 76 - Onchain credential models
+Day 77 - Blockchain for gaming
