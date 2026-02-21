@@ -98,3 +98,4 @@ Day 95 - Reviewing blockchain trends
 Day 96 - Long term Web3 vision
 Day 97 - Decentralized future outlook
 Day 98 - Continuous learning mindset
+Day 99 - Tracking personal progress
