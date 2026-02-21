@@ -58,3 +58,4 @@ Day 55 - Onchain analytics tools
 Day 56 - Blockchain data indexing
 Day 57 - Smart contract audits
 Day 58 - Bug bounty awareness
+Day 59 - Security best practices
