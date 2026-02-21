@@ -72,3 +72,4 @@ Day 69 - Base ecosystem projects research
 Day 70 - Community governance participation
 Day 71 - Onchain voting systems
 Day 72 - NFT utility expansion
+Day 73 - Creator economy onchain
