@@ -106,3 +106,4 @@ Day 103 - Unit testing in Web3 projects
 Day 104 - Integration testing basics
 Day 105 - Hardhat environment setup
 Day 106 - Foundry toolkit exploration
+Day 107 - Remix IDE experimentation
