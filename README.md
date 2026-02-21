@@ -127,3 +127,4 @@ Day 124 - Access control mechanisms
 Day 125 - Role based permissions
 Day 126 - Time locked contracts
 Day 127 - Emergency pause mechanisms
+Day 128 - Oracle integration overview
