@@ -1,5 +1,5 @@
 # base-progress-log
-# Base Guild Progress Log
+# Base Progress Log
 Day 1 - Starting journey 🚀
 Day 2 - Learning
 Day 3 - Building
@@ -80,3 +80,4 @@ Day 77 - Blockchain for gaming
 Day 78 - Real world asset tokenization
 Day 79 - Institutional adoption trends
 Day 80 - Developer roadmap planning
+Day 81 - Writing better documentation
