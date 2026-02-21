@@ -108,3 +108,4 @@ Day 105 - Hardhat environment setup
 Day 106 - Foundry toolkit exploration
 Day 107 - Remix IDE experimentation
 Day 108 - Contract deployment scripts
+Day 109 - Environment variables management
