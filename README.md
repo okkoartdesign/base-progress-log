@@ -110,3 +110,4 @@ Day 107 - Remix IDE experimentation
 Day 108 - Contract deployment scripts
 Day 109 - Environment variables management
 Day 110 - API integration concepts
+Day 111 - Frontend wallet connection flow
