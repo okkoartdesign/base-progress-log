@@ -87,3 +87,4 @@ Day 84 - Clean commit structure
 Day 85 - README improvement practices
 Day 86 - Markdown formatting basics
 Day 87 - Structuring project folders
+Day 88 - Minimal viable dApp idea
