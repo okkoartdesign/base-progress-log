@@ -123,3 +123,4 @@ Day 120 - Storage layout considerations
 Day 121 - Gas optimization patterns
 Day 122 - Solidity best practices
 Day 123 - Reentrancy attack awareness
+Day 124 - Access control mechanisms
