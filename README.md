@@ -92,3 +92,4 @@ Day 89 - Testing small prototypes
 Day 90 - Iterative development
 Day 91 - Open source collaboration
 Day 92 - Community feedback loops
+Day 93 - Learning from failed experiments
