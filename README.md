@@ -52,3 +52,4 @@ Day 49 - Cross-chain bridges
 Day 50 - Interoperability challenges
 Day 51 - Stablecoin mechanisms
 Day 52 - Collateralized assets
+Day 53 - Algorithmic token risks
