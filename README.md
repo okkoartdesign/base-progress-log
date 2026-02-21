@@ -35,3 +35,8 @@ Day 32 - Seed phrase storage strategies
 Day 33 - Multi-sig wallet concept
 Day 34 - DAO governance basics
 Day 35 - Token standards overview
+Day 36 - ERC-20 fundamentals
+Day 37 - ERC-721 NFT basics
+Day 38 - ERC-1155 hybrid tokens
+Day 39 - Tokenomics reflections
+Day 40 - Onchain transparency
