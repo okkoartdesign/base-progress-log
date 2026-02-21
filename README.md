@@ -109,3 +109,4 @@ Day 106 - Foundry toolkit exploration
 Day 107 - Remix IDE experimentation
 Day 108 - Contract deployment scripts
 Day 109 - Environment variables management
+Day 110 - API integration concepts
