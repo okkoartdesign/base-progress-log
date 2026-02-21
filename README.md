@@ -133,3 +133,4 @@ Day 130 - Randomness in smart contracts
 Day 131 - MEV concept exploration
 Day 132 - Front running prevention ideas
 Day 133 - Transaction ordering logic
+Day 134 - Decentralized sequencing
